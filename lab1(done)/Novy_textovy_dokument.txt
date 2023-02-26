@@ -1,0 +1,20 @@
+analiza numerica
+regul de a testarea proiectului
+1.in raport se scrie tema si conditiile concrete
+2.optional se descriu metodele
+3.program se testeaza la calculator in baza rezultatelor din caiet
+4.programa se transcrie in raport
+5.se transcriu rezultatele in raport
+6.in raport se fac conluziile
+7.proiectul este semnat de student si profesor
+8.28 ore 4 proiecte
+
+1.proiect n1,rezolvarea ecuatiei мой вариант - 13
+// x^3 - ax^2 - bx +ab = 0
+var 1
+a      b
++-7    6
+x^3 +-7x^2 - 6x +-42 = 0
+A = -8
+B = 
+[-3.2;-3.15] [3.15;3.2]

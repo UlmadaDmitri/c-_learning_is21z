@@ -1,0 +1,54 @@
+caiet de prelegeri
+caiet de seminare
+caiet de lucru individual
+caiet de rapoarte(lucru)
+
+
+Tema 1:Surse de erori
+S=a+b
+eroari de metoda
+1.ax=b a/=/0
+2.x=b/a
+  ax=b
+3.2x-4=0
+  x=4/2=2
+  2*2=4
+4.3x-4=0
+  x=4/3=1.33
+  3*1.33=3.99
+eroare initiala
+200g +-2%        50kg +-0.05
+500g +-3%        50kg +-0.1
+a=200  a?
+b=500  b?
+a+b <= ▲a + ▲b
+▲(a+b)<= 4+15=19
+(a+b)-▲ab<=a+b<=(a+b)+▲a+b
+700-19<=a+b<=700+15
+             719
+rotungire numerilor
+e(sau p)de afisat cifrile semnificative 10^-3
+▲a<=10^-3       e*=2.718281828459045
+                e=2.718
+				▲=|e* - e|=0.000281828459045 <=10^-3
+сколько верных значащих цифр нужно взять для 
+r = √250=15.8              10^-4
+
+
+
+
+sisteme 3
+baze de date 5
+web 6
+analiza 3
+civilizatie 1
+oop 1
+
+
+bd 13
+web 12
+oop 12
+analiza 9
+sisteme 9
+civilizatia 9
+	
